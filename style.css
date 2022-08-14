@@ -1,6 +1,6 @@
 /* ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY */
 
-/* html {
+html {
   box-sizing: border-box;
 }
 body {
@@ -43,10 +43,10 @@ button:active {
 button:disabled {
   cursor: default;
   filter: brightness(30%);
-} */
+}
 
 /* Media Query: Tablet or Smaller */
-/* @media screen and (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
   .container {
     background-position: center center;
     background-size: cover;
@@ -55,4 +55,4 @@ button:disabled {
   button {
     box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
   }
-} */
+}
